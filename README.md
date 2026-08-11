@@ -39,7 +39,7 @@ Go to **Settings → Secrets and variables → Actions → Variables** and add:
 
 ### 4. Trigger the workflow
 
-Go to **Actions → BMS Ticket Checker** and click **Run workflow**, or wait for it to run automatically every 30 minutes.
+Go to **Actions → BMS Ticket Checker** and click **Run workflow**, or wait for it to run automatically every 10 minutes.
 
 ## Local Usage
 
