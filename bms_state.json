@@ -584,6 +584,38 @@
       "price": "170.00",
       "status": "3"
     },
+    "PGWB|23880|20260813|RECLINER ROWS": {
+      "venue": "PVR: GT World Mall, Magadi Road",
+      "time": "12:05 PM",
+      "date": "20260813",
+      "cat": "RECLINER ROWS",
+      "price": "370.00",
+      "status": "3"
+    },
+    "PGWB|23880|20260813|PRIME ROWS": {
+      "venue": "PVR: GT World Mall, Magadi Road",
+      "time": "12:05 PM",
+      "date": "20260813",
+      "cat": "PRIME ROWS",
+      "price": "200.00",
+      "status": "3"
+    },
+    "PGWB|23880|20260813|CLASSIC PLUS ROWS": {
+      "venue": "PVR: GT World Mall, Magadi Road",
+      "time": "12:05 PM",
+      "date": "20260813",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "170.00",
+      "status": "3"
+    },
+    "PGWB|23880|20260813|CLASSIC ROWS": {
+      "venue": "PVR: GT World Mall, Magadi Road",
+      "time": "12:05 PM",
+      "date": "20260813",
+      "cat": "CLASSIC ROWS",
+      "price": "150.00",
+      "status": "3"
+    },
     "PDWR|27693|20260813|RECLINER PRIME": {
       "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
       "time": "10:00 AM",
