@@ -190,7 +190,7 @@
       "date": "20260813",
       "cat": "GOLD PRIME",
       "price": "700.00",
-      "status": "2"
+      "status": "1"
     },
     "PVOO|52599|20260813|GOLD": {
       "venue": "PVR: Orion Mall, Dr Rajkumar Road",
@@ -711,51 +711,11 @@
       "cat": "RECLINER",
       "price": "750.00",
       "status": "3"
-    },
-    "FMFB|121207|20260815|PRIME ROWS": {
-      "venue": "INOX: Nexus, Whitefield",
-      "time": "03:35 PM",
-      "date": "20260815",
-      "cat": "PRIME ROWS",
-      "price": "280.00",
-      "status": "3"
-    },
-    "FMFB|121207|20260815|CLASSIC PLUS ROWS": {
-      "venue": "INOX: Nexus, Whitefield",
-      "time": "03:35 PM",
-      "date": "20260815",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "250.00",
-      "status": "3"
-    },
-    "FMFB|121207|20260815|CLASSIC ROWS": {
-      "venue": "INOX: Nexus, Whitefield",
-      "time": "03:35 PM",
-      "date": "20260815",
-      "cat": "CLASSIC ROWS",
-      "price": "230.00",
-      "status": "3"
-    },
-    "PDWR|27772|20260815|RECLINER PRIME": {
-      "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
-      "time": "12:50 PM",
-      "date": "20260815",
-      "cat": "RECLINER PRIME",
-      "price": "950.00",
-      "status": "2"
-    },
-    "PDWR|27772|20260815|RECLINER": {
-      "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
-      "time": "12:50 PM",
-      "date": "20260815",
-      "cat": "RECLINER",
-      "price": "850.00",
-      "status": "3"
     }
   },
   "dates": {
-    "20260812": "BOOKABLE",
-    "20260813": "AVAILABLE",
+    "20260812": "AVAILABLE",
+    "20260813": "BOOKABLE",
     "20260814": "AVAILABLE",
     "20260815": "AVAILABLE",
     "20260816": "AVAILABLE",
