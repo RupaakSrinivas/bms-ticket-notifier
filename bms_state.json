@@ -86,7 +86,7 @@
       "date": "20260813",
       "cat": "RECLINER ROWS",
       "price": "350.00",
-      "status": "3"
+      "status": "2"
     },
     "PSPR|55437|20260813|PRIME ROWS": {
       "venue": "PVR: Superplex Forum Mall, Kanakapura Road",
@@ -286,22 +286,6 @@
       "date": "20260813",
       "cat": "CLASSIC ROWS",
       "price": "220.00",
-      "status": "3"
-    },
-    "PVWW|40097|20260813|GOLD PRIME": {
-      "venue": "PVR: VR Bengaluru, Whitefield Road",
-      "time": "09:00 AM",
-      "date": "20260813",
-      "cat": "GOLD PRIME",
-      "price": "490.00",
-      "status": "3"
-    },
-    "PVWW|40097|20260813|GOLD": {
-      "venue": "PVR: VR Bengaluru, Whitefield Road",
-      "time": "09:00 AM",
-      "date": "20260813",
-      "cat": "GOLD",
-      "price": "440.00",
       "status": "3"
     },
     "PVWW|40131|20260813|GOLD PRIME": {
@@ -670,7 +654,7 @@
       "date": "20260813",
       "cat": "RECLINER PRIME",
       "price": "650.00",
-      "status": "2"
+      "status": "3"
     },
     "PDWR|27693|20260813|RECLINER": {
       "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
@@ -998,7 +982,7 @@
       "date": "20260814",
       "cat": "RECLINER PRIME",
       "price": "950.00",
-      "status": "3"
+      "status": "2"
     },
     "PDWR|27714|20260814|RECLINER": {
       "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
@@ -1086,7 +1070,7 @@
       "date": "20260815",
       "cat": "RECLINER ROWS",
       "price": "580.00",
-      "status": "3"
+      "status": "2"
     },
     "PPNX|44782|20260815|PRIME ROWS": {
       "venue": "PVR: Phoenix Marketcity Mall, Whitefield Road",
@@ -1526,7 +1510,7 @@
       "date": "20260816",
       "cat": "RECLINER PRIME",
       "price": "950.00",
-      "status": "3"
+      "status": "2"
     },
     "PDWR|27777|20260816|RECLINER": {
       "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
